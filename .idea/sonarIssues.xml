@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/definitions/CategoriaAlertModalDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/definitions/CategoriaInputFormsDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/definitions/CategoriaJquerySelecDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/definitions/CategoriaRadioButtonDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/definitions/CategoriaSelectDemoDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/definitions/CategoriaTableDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/definitions/CheckBoxDemoDefiniton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/definitions/categoriaInputFormsDefinitions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/pages/AlertModalPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/pages/CheckBoxDemoPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/pages/MenuSeleniumPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/pages/RadioButtonDemoPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/pages/SelectDropDownListPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/pages/SelectJqueryDropDownPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/pages/SeleniumPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/pages/SimpleFormDemoPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/pages/TableDataSearchPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/steps/AlertModalStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/steps/CheckBoxDemoStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/steps/MenuSeleniumStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/steps/RadioButtonDemoStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/steps/SelectDropDownListStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/steps/SelectJqueryDropDownStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/steps/SelemiunStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/steps/SimpleFormDemoStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/proyectoQvision/steps/TableDataSearchStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/proyectoQvision/runners/CategoriaAlertModalRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/proyectoQvision/runners/CategoriaCheckboxRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/proyectoQvision/runners/CategoriaInputRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/proyectoQvision/runners/CategoriaJquerySelecRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/proyectoQvision/runners/CategoriaRadioButton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/proyectoQvision/runners/CategoriaSelectRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/proyectoQvision/runners/CategoriaTableRunner.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/categoria_aler_modal.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/categoria_checkbox _demo.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/categoria_jquery_select_dropdown.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/categoria_radio_button.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/categoria_select_demo.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/categoria_table.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/resources/features/categoría_input_forms.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/main/java/com/sura/produccion/definitions/empresariales/asesoriaventa/PolizaNuevaIncendioEmpresarialDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/main/java/com/sura/produccion/definitions/empresariales/asesoriaventa/PolizaNuevaPatrimonialEmpresarialDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/main/java/com/sura/produccion/definitions/empresariales/asesoriaventa/PolizaNuevaPropiedadEmpresarialDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/main/java/com/sura/produccion/definitions/empresariales/asesoriaventa/VerificacionBasicaExpedicionPolizaEmpresarialDefinition.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/main/java/com/sura/produccion/pages/groupcenter/empresariales/DatosAseguradoPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/main/java/com/sura/produccion/pages/groupcenter/empresariales/SeleccionProductosPage.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/main/java/com/sura/produccion/steps/groupcenter/empresariales/DatosAseguradoStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/main/java/com/sura/produccion/steps/groupcenter/empresariales/DatosBeneficiarioStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/main/java/com/sura/produccion/steps/groupcenter/empresariales/DatosPolizaStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/main/java/com/sura/produccion/steps/groupcenter/empresariales/DatosTomadorStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/main/java/com/sura/produccion/steps/groupcenter/empresariales/OficinaAsesorStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/main/java/com/sura/produccion/steps/groupcenter/empresariales/SolicitudElectronicaStep.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/test/resources/data/datos_asegurado_empresariales.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/test/resources/data/datos_beneficiario_empresariales.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/test/resources/features/empresariales/asesoriaventa/poliza_nueva_fraude_incendio_riesgo_estandar.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/test/resources/features/empresariales/asesoriaventa/poliza_nueva_patrimonial_riesgo_estandar.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../proyectossura/BDDCoreSuraProduccion/src/test/resources/features/empresariales/asesoriaventa/poliza_nueva_propiedad_riesgo_estandar.feature">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
